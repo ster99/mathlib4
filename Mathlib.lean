@@ -1084,6 +1084,7 @@ import Mathlib.Algebra.Polynomial.UnitTrinomial
 import Mathlib.Algebra.PresentedMonoid.Basic
 import Mathlib.Algebra.Prime.Defs
 import Mathlib.Algebra.Prime.Lemmas
+import Mathlib.Algebra.QuadraticAlgebra
 import Mathlib.Algebra.QuadraticAlgebra.Basic
 import Mathlib.Algebra.QuadraticAlgebra.Defs
 import Mathlib.Algebra.QuadraticDiscriminant
@@ -1806,6 +1807,7 @@ import Mathlib.Analysis.LocallyConvex.WeakOperatorTopology
 import Mathlib.Analysis.LocallyConvex.WeakSpace
 import Mathlib.Analysis.LocallyConvex.WithSeminorms
 import Mathlib.Analysis.Matrix
+import Mathlib.Analysis.Matrix.HermitianFunctionalCalculus
 import Mathlib.Analysis.Matrix.Normed
 import Mathlib.Analysis.Matrix.Order
 import Mathlib.Analysis.Matrix.PosDef
@@ -2398,6 +2400,7 @@ import Mathlib.CategoryTheory.Groupoid
 import Mathlib.CategoryTheory.Groupoid.Basic
 import Mathlib.CategoryTheory.Groupoid.Discrete
 import Mathlib.CategoryTheory.Groupoid.FreeGroupoid
+import Mathlib.CategoryTheory.Groupoid.FreeGroupoidOfCategory
 import Mathlib.CategoryTheory.Groupoid.Subgroupoid
 import Mathlib.CategoryTheory.Groupoid.VertexGroup
 import Mathlib.CategoryTheory.GuitartExact.Basic
